@@ -1,7 +1,5 @@
 <h3>🛒 Blinkit Sales & Analytics Power BI Dashboard</h3><br>
-<p>Welcome to the Blinkit Sales & Performance Analytics repository! This project features a comprehensive Power BI dashboard built 
-to analyze quick-commerce retail data,track customer satisfaction, evaluate category performance, and monitor key operational 
-metrics.</p><br>
+<p>Welcome to the Blinkit Sales & Performance Analytics repository! This project features a comprehensive Power BI dashboard built to analyze quick-commerce retail data,track customer satisfaction, evaluate category performance, and monitor key operational metrics.</p>
 <h3>📌 Project Overview</h3><br>
 <p>This dashboard transforms raw operational data into actionable insights for the Blinkit ecosystem. 
 It enables business stakeholders, category managers, and operational teams to evaluate sales performance,
@@ -16,11 +14,10 @@ Interactive Slicers & Filters: Dynamic filtering by date ranges, item types, out
 Modern Executive UI: Clean, responsive layout designed using Microsoft's Fluent 2 theme standard.
 
 <h3>🛠️ Data Model</h3><br>
-<p>Total Revenue: Aggregate sum of all completed sales transactions.</p>
-<p>Average Sales (Avg_Sales): Mean purchase value per customer order.</p>
-<p>Average Customer Rating: Weighted average score based on customer reviews.</p>
-<p>Total Items Sold: Total quantity of individual products fulfilled across orders.</p>
-
+Total Revenue: Aggregate sum of all completed sales transactions.
+Average Sales (Avg_Sales): Mean purchase value per customer order.
+Average Customer Rating: Weighted average score based on customer reviews.
+Total Items Sold: Total quantity of individual products fulfilled across orders.
 <h3>📂 Repository Structure</h3><br><br>
    Main Power BI Report File
    Extracted PBIX definition & assets   
@@ -32,5 +29,5 @@ Modern Executive UI: Clean, responsive layout designed using Microsoft's Fluent 
    Package metadata[cite: 1]
    Project documentation  / Readme file
 
-<h3>🚀 Getting Started</h3><br>
+<h3>🚀 Getting Started</h3>
 <p>Microsoft Power BI Desktop (Latest Version recommended)</p>
