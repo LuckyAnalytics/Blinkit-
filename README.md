@@ -1,4 +1,4 @@
-<h3>🛒 Blinkit Sales & Analytics Power BI Dashboard</h3><br>
+<h3>🛒 Blinkit Sales & Analytics Power BI Dashboard</h3>
 <p>Welcome to the Blinkit Sales & Performance Analytics repository! This project features a comprehensive Power BI dashboard built to analyze quick-commerce retail data,track customer satisfaction, evaluate category performance, and monitor key operational metrics.</p>
 <h3>📌 Project Overview</h3><br>
 <p>This dashboard transforms raw operational data into actionable insights for the Blinkit ecosystem. 
